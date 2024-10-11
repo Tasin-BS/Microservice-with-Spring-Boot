@@ -1,4 +1,4 @@
-package com.bank_management.accounts.controller;
+package com.bank_management.accounts.constants;
 
 public class AccountsConstants {
 
