@@ -12,6 +12,7 @@ import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
+import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.Pattern;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -113,6 +114,7 @@ public class AccountController {
             )
     }
     )
+    @NotEmpty
     @PutMapping("/update")
     public ResponseEntity<ResponseDto> updateAccountDetails(@Valid @RequestBody CustomerDto customerDto) {
         boolean isUpdated = iAccountsService.updateAccount(customerDto);
