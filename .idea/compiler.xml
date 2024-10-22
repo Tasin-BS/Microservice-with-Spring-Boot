@@ -7,15 +7,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="accounts" />
+        <module name="loans (2) (com.bank-management)" />
         <module name="cards" />
+        <module name="accounts" />
+        <module name="loans" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="loans (1) (com.eazybytes)" target="20" />
+      <module name="loans (2) (com.bank-management)" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="accounts" options="-parameters" />
       <module name="cards" options="-parameters" />
+      <module name="loans" options="-parameters" />
+      <module name="loans (1) (com.eazybytes)" options="-parameters" />
+      <module name="loans (2) (com.bank-management)" options="-parameters" />
     </option>
   </component>
 </project>
