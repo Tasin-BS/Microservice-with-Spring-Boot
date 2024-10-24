@@ -8,12 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="loans (2) (com.bank-management)" />
-        <module name="cards" />
-        <module name="accounts" />
-        <module name="loans" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="accounts" target="20" />
+      <module name="cards" target="17" />
+      <module name="loans" target="17" />
       <module name="loans (1) (com.eazybytes)" target="20" />
       <module name="loans (2) (com.bank-management)" target="17" />
     </bytecodeTargetLevel>
