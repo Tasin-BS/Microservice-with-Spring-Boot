@@ -10,6 +10,13 @@
         <option value="$PROJECT_DIR$/section4/cards/pom.xml" />
         <option value="$PROJECT_DIR$/section4/loans/pom.xml" />
         <option value="$PROJECT_DIR$/section4/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/v1-springboot/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/v1-springboot/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/v1-springboot/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/v2-spring-cloud-config/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/v2-spring-cloud-config/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/v2-spring-cloud-config/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/section6/v2-spring-cloud-config/loans/pom.xml" />
       </list>
     </option>
   </component>
