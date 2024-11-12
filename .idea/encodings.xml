@@ -20,5 +20,14 @@
     <file url="file://$PROJECT_DIR$/section6/v2-spring-cloud-config/cards/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section6/v2-spring-cloud-config/configserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section6/v2-spring-cloud-config/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section7/accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section7/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section7/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section7/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section8/accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section8/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section8/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section8/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section8/loans/src/main/java" charset="UTF-8" />
   </component>
 </project>

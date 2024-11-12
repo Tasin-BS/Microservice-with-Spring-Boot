@@ -17,6 +17,15 @@
         <option value="$PROJECT_DIR$/section6/v2-spring-cloud-config/cards/pom.xml" />
         <option value="$PROJECT_DIR$/section6/v2-spring-cloud-config/configserver/pom.xml" />
         <option value="$PROJECT_DIR$/section6/v2-spring-cloud-config/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/section7/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/section7/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/section7/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/section7/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/section8/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/section8/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/section8/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/section8/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/section8/loans/pom.xml" />
       </list>
     </option>
   </component>
