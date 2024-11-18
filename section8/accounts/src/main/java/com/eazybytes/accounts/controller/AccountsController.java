@@ -202,6 +202,11 @@ public class AccountsController {
                     .body(buildVersion);
     }
 
+    @GetMapping("/build-new")
+    public ResponseEntity<String> getBuildNew(){
+        return null;
+    }
+
     @Operation(
             summary = "Get Java version",
             description = "Get Java versions details that is installed into accounts microservice"
