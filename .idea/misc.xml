@@ -26,6 +26,10 @@
         <option value="$PROJECT_DIR$/section8/cards/pom.xml" />
         <option value="$PROJECT_DIR$/section8/accounts/pom.xml" />
         <option value="$PROJECT_DIR$/section8/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/section9/gatewayserver/pom.xml" />
+        <option value="$PROJECT_DIR$/section_10/gatewayserver/pom.xml" />
+        <option value="$PROJECT_DIR$/section_10/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/section_10/accounts/pom.xml" />
       </list>
     </option>
   </component>

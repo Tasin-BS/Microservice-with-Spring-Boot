@@ -29,5 +29,9 @@
     <file url="file://$PROJECT_DIR$/section8/configserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section8/eurekaserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/section8/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section9/gatewayserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section_10/accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section_10/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/section_10/gatewayserver/src/main/java" charset="UTF-8" />
   </component>
 </project>

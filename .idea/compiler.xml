@@ -9,24 +9,28 @@
         <outputRelativeToContentRoot value="true" />
         <module name="accounts (5)" />
         <module name="cards" />
-        <module name="accounts (4)" />
         <module name="accounts (3)" />
-        <module name="accounts (2)" />
         <module name="accounts (1)" />
-        <module name="loans" />
-        <module name="cards (5)" />
         <module name="loans (5)" />
-        <module name="configserver" />
+        <module name="gatewayserver (1)" />
         <module name="eurekaserver" />
+        <module name="gatewayserver" />
         <module name="cards (1)" />
         <module name="loans (2)" />
-        <module name="loans (1)" />
-        <module name="cards (2)" />
         <module name="cards (3)" />
         <module name="loans (4)" />
+        <module name="configserver (1)" />
+        <module name="configserver (3)" />
+        <module name="accounts (6)" />
+        <module name="accounts (4)" />
+        <module name="accounts (2)" />
+        <module name="loans" />
+        <module name="cards (5)" />
+        <module name="configserver" />
+        <module name="loans (1)" />
+        <module name="cards (2)" />
         <module name="loans (3)" />
         <module name="cards (4)" />
-        <module name="configserver (1)" />
         <module name="accounts" />
         <module name="configserver (2)" />
       </profile>
@@ -40,6 +44,7 @@
       <module name="accounts (3)" options="-parameters" />
       <module name="accounts (4)" options="-parameters" />
       <module name="accounts (5)" options="-parameters" />
+      <module name="accounts (6)" options="-parameters" />
       <module name="cards" options="-parameters" />
       <module name="cards (1)" options="-parameters" />
       <module name="cards (2)" options="-parameters" />
@@ -49,7 +54,10 @@
       <module name="configserver" options="-parameters" />
       <module name="configserver (1)" options="-parameters" />
       <module name="configserver (2)" options="-parameters" />
+      <module name="configserver (3)" options="-parameters" />
       <module name="eurekaserver" options="-parameters" />
+      <module name="gatewayserver" options="-parameters" />
+      <module name="gatewayserver (1)" options="-parameters" />
       <module name="loans" options="-parameters" />
       <module name="loans (1)" options="-parameters" />
       <module name="loans (2)" options="-parameters" />
